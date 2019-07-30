@@ -1,6 +1,9 @@
 <application>
   <component name="FindSettings">
+    <option name="customScope" value="Module 'image-worker'" />
+    <option name="defaultScopeName" value="Module 'image-worker'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="Module 'image-worker'" />
   </component>
 </application>
