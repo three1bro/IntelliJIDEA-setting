@@ -1,0 +1,12 @@
+<templateSet group="self">
+  <template name="sptt" value="@RunWith(SpringRunner.class)&#10;@SpringBootTest" description="spring test anna" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="reco" value="return count &gt; ?&#10;        CommonResult.success(count) :&#10;        CommonResult.failed();" shortcut="SPACE" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
