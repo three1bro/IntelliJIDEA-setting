@@ -1,4 +1,8 @@
-<keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+<keymap version="1" name="Mac OS X 10.5+ personal" parent="Mac OS X 10.5+">
+  <action id="$Delete">
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
   <action id="Debug" />
   <action id="EditorChooseLookupItemDot">
     <keyboard-shortcut first-keystroke="period" />
@@ -12,6 +16,15 @@
   </action>
   <action id="EditorDelete">
     <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="meta back_space" second-keystroke="l" />
+  </action>
+  <action id="EditorDeleteToLineEnd">
+    <keyboard-shortcut first-keystroke="meta back_space" second-keystroke="e" />
+  </action>
+  <action id="EditorDeleteToLineStart">
+    <keyboard-shortcut first-keystroke="meta back_space" second-keystroke="a" />
   </action>
   <action id="EditorIncreaseFontSize">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="equals" />
