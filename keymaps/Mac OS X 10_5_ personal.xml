@@ -21,15 +21,36 @@
     <keyboard-shortcut first-keystroke="meta back_space" second-keystroke="l" />
   </action>
   <action id="EditorDeleteToLineEnd">
-    <keyboard-shortcut first-keystroke="meta back_space" second-keystroke="e" />
+    <keyboard-shortcut first-keystroke="meta back_space" second-keystroke="shift dollar" />
   </action>
   <action id="EditorDeleteToLineStart">
-    <keyboard-shortcut first-keystroke="meta back_space" second-keystroke="a" />
+    <keyboard-shortcut first-keystroke="meta back_space" second-keystroke="0" />
+  </action>
+  <action id="EditorDeleteToWordEnd">
+    <keyboard-shortcut first-keystroke="meta back_space" second-keystroke="e" />
+  </action>
+  <action id="EditorDeleteToWordEndInDifferentHumpsMode">
+    <keyboard-shortcut first-keystroke="meta back_space" second-keystroke="shift e" />
+  </action>
+  <action id="EditorDeleteToWordStart">
+    <keyboard-shortcut first-keystroke="meta back_space" second-keystroke="w" />
+  </action>
+  <action id="EditorDeleteToWordStartInDifferentHumpsMode">
+    <keyboard-shortcut first-keystroke="meta back_space" second-keystroke="shift w" />
+  </action>
+  <action id="EditorHungryBackSpace">
+    <keyboard-shortcut first-keystroke="meta back_space" second-keystroke="back_space" />
   </action>
   <action id="EditorIncreaseFontSize">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="equals" />
   </action>
+  <action id="EditorJoinLines">
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
   <action id="EditorResetFontSize">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="back_space" />
+  </action>
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="f1" />
   </action>
 </keymap>
