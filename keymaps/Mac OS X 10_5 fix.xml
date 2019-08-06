@@ -6,10 +6,13 @@
     <keyboard-shortcut first-keystroke="alt x" second-keystroke="b" />
   </action>
   <action id="ChooseDebugConfiguration" />
+  <action id="ChooseRunConfiguration" />
   <action id="CodeMenu">
     <keyboard-shortcut first-keystroke="alt x" second-keystroke="c" />
   </action>
-  <action id="Debug" />
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="d" />
+  </action>
   <action id="EditMenu">
     <keyboard-shortcut first-keystroke="alt x" second-keystroke="e" />
   </action>
@@ -67,6 +70,9 @@
   </action>
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="ctrl t" second-keystroke="t" />
+  </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="r" />
   </action>
   <action id="RunMenu">
     <keyboard-shortcut first-keystroke="alt x" second-keystroke="r" />
