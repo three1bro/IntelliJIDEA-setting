@@ -2,4 +2,13 @@
   <action id="EditorChooseLookupItemDot">
     <keyboard-shortcut first-keystroke="period" />
   </action>
+  <action id="EditorDecreaseFontSize">
+    <mouse-shortcut keystroke="meta button142" />
+  </action>
+  <action id="EditorIncreaseFontSize">
+    <mouse-shortcut keystroke="meta button143" />
+  </action>
+  <action id="EditorResetFontSize">
+    <mouse-shortcut keystroke="meta button2" />
+  </action>
 </keymap>
