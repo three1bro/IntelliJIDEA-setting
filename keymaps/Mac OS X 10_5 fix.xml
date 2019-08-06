@@ -1,6 +1,18 @@
 <keymap version="1" name="Mac OS X 10.5 fix" parent="Mac OS X 10.5+">
+  <action id="AnalyzeMenu">
+    <keyboard-shortcut first-keystroke="alt x" second-keystroke="a" />
+  </action>
+  <action id="BuildMenu">
+    <keyboard-shortcut first-keystroke="alt x" second-keystroke="b" />
+  </action>
   <action id="ChooseDebugConfiguration" />
+  <action id="CodeMenu">
+    <keyboard-shortcut first-keystroke="alt x" second-keystroke="c" />
+  </action>
   <action id="Debug" />
+  <action id="EditMenu">
+    <keyboard-shortcut first-keystroke="alt x" second-keystroke="e" />
+  </action>
   <action id="EditorChooseLookupItemDot">
     <keyboard-shortcut first-keystroke="period" />
   </action>
@@ -32,5 +44,52 @@
   </action>
   <action id="EditorResetFontSize">
     <mouse-shortcut keystroke="meta button2" />
+  </action>
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="alt up" />
+    <keyboard-shortcut first-keystroke="ctrl equals" />
+  </action>
+  <action id="EditorUnSelectWord">
+    <keyboard-shortcut first-keystroke="alt down" />
+    <keyboard-shortcut first-keystroke="ctrl minus" />
+  </action>
+  <action id="FileMenu">
+    <keyboard-shortcut first-keystroke="alt x" second-keystroke="f" />
+  </action>
+  <action id="GoToMenu">
+    <keyboard-shortcut first-keystroke="alt x" second-keystroke="n" />
+  </action>
+  <action id="HelpMenu">
+    <keyboard-shortcut first-keystroke="alt x" second-keystroke="h" />
+  </action>
+  <action id="RefactoringMenu">
+    <keyboard-shortcut first-keystroke="alt x" second-keystroke="o" />
+  </action>
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="ctrl t" second-keystroke="t" />
+  </action>
+  <action id="RunMenu">
+    <keyboard-shortcut first-keystroke="alt x" second-keystroke="r" />
+  </action>
+  <action id="ToolsMenu">
+    <keyboard-shortcut first-keystroke="alt x" second-keystroke="t" />
+  </action>
+  <action id="Vcs.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="alt m" />
+  </action>
+  <action id="VcsGroups">
+    <keyboard-shortcut first-keystroke="alt x" second-keystroke="m" />
+  </action>
+  <action id="ViewMenu">
+    <keyboard-shortcut first-keystroke="alt x" second-keystroke="v" />
+  </action>
+  <action id="WindowMenu">
+    <keyboard-shortcut first-keystroke="alt x" second-keystroke="w" />
+  </action>
+  <action id="osmedile.intellij.stringmanip.PopupChoiceAction">
+    <keyboard-shortcut first-keystroke="ctrl t" second-keystroke="s" />
+  </action>
+  <action id="osmedile.intellij.stringmanip.SwitchCasePopup">
+    <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
 </keymap>
