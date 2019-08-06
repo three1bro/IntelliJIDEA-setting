@@ -55,13 +55,11 @@
                           <option name="backgroundColor">
                             <GrepColor>
                               <option name="color" value="-6041350" />
-                              <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
                           <option name="foregroundColor">
                             <GrepColor>
                               <option name="color" value="-459266" />
-                              <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
                         </GrepStyle>
