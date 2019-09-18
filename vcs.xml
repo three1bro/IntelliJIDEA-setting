@@ -25,7 +25,4 @@
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
   </component>
-  <component name="VcsApplicationSettings">
-    <option name="SHOW_LST_GUTTER_MARKERS" value="false" />
-  </component>
 </application>
