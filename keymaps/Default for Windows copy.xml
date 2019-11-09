@@ -1,0 +1,6 @@
+<keymap version="1" name="Default for Windows copy" parent="$default">
+  <action id="OpenFile">
+    <keyboard-shortcut first-keystroke="ctrl o" />
+  </action>
+  <action id="OverrideMethods" />
+</keymap>
