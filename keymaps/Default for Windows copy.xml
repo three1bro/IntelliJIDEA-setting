@@ -35,4 +35,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl space" />
     <keyboard-shortcut first-keystroke="ctrl comma" second-keystroke="period" />
   </action>
+  <action id="StructuralSearchPlugin.StructuralSearchAction">
+    <keyboard-shortcut first-keystroke="ctrl semicolon" second-keystroke="s" />
+  </action>
 </keymap>
