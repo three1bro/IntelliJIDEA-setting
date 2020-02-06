@@ -1,0 +1,7 @@
+<templateSet group="plain">
+  <template name="ps" value="public static " description="public static" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
