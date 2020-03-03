@@ -4,7 +4,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="psv" value="private static void" description="private static void" toReformat="false" toShortenFQNames="true" useStaticImport="true">
+  <template name="psv" value="public static void " description="private static void" toReformat="false" toShortenFQNames="true" useStaticImport="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
