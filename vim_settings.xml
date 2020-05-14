@@ -1,6 +1,10 @@
 <application>
-  <component name="VimSettings">
-    <state version="5" enabled="true" />
+  <component name="VimEditorSettings">
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+  <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
@@ -84,9 +88,73 @@
         <text>ctrl pressed Q</text>
       </shortcut-conflict>
     </shortcut-conflicts>
-    <editor>
-      <key-repeat enabled="true" />
-    </editor>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="D:/Inbox/2.鲁班学院VIP高级课程（第二期）/一、并发编程专题/3-2019-07-09-synchronized和volatile关键字-华安/concurrent1/src/main/java/com/luban/demo1/Demo5.java" timestamp="1589438614578">
+        <mark key="[" line="5" column="32" />
+        <mark key="]" line="5" column="25" />
+        <mark key="." line="5" column="24" />
+        <mark key="^" line="5" column="25" />
+      </file>
+      <file name="D:/Inbox/2.鲁班学院VIP高级课程（第二期）/一、并发编程专题/3-2019-07-09-synchronized和volatile关键字-华安/concurrent1/src/main/java/com/luban/demo4/Demo.java" timestamp="1589439692408">
+        <mark key="[" line="19" column="44" />
+        <mark key="]" line="19" column="44" />
+        <mark key="." line="19" column="44" />
+        <mark key="^" line="18" column="41" />
+      </file>
+      <file name="D:/Inbox/2.鲁班学院VIP高级课程（第二期）/一、并发编程专题/3-2019-07-09-synchronized和volatile关键字-华安/concurrent1/src/main/java/com/luban/demo2/Demo1.java" timestamp="1589439348666" />
+      <file name="D:/Inbox/2.鲁班学院VIP高级课程（第二期）/一、并发编程专题/3-2019-07-09-synchronized和volatile关键字-华安/concurrent1/src/main/java/com/luban/demo3/Demo1.java" timestamp="1589439451953">
+        <mark key="[" line="13" column="11" />
+        <mark key="]" line="13" column="11" />
+        <mark key="." line="13" column="11" />
+      </file>
+    </filemarks>
+    <jumps />
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICAvL1RocmVhZC5zbGVlcCg1MDAwKTsKICAgICAgICB9IGNhdGNoIChJbnRlcnJ1cHRlZEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQo=</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>0</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">cGFja2FnZSBjb20ubHViYW4uZGVtbzE7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5sdWJhbi5kZW1vNC5EZW1vOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgCg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>0</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
