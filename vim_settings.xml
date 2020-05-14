@@ -92,6 +92,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="D:/Inbox/2.鲁班学院VIP高级课程（第二期）/一、并发编程专题/3-2019-07-09-synchronized和volatile关键字-华安/concurrent1/src/main/java/com/luban/demo10/Demo.java" timestamp="1589442912622" />
       <file name="D:/Inbox/2.鲁班学院VIP高级课程（第二期）/一、并发编程专题/3-2019-07-09-synchronized和volatile关键字-华安/concurrent1/src/main/java/com/luban/demo1/Demo5.java" timestamp="1589438614578">
         <mark key="[" line="5" column="32" />
         <mark key="]" line="5" column="25" />
@@ -104,6 +105,12 @@
         <mark key="." line="19" column="44" />
         <mark key="^" line="18" column="41" />
       </file>
+      <file name="D:/Inbox/2.鲁班学院VIP高级课程（第二期）/一、并发编程专题/3-2019-07-09-synchronized和volatile关键字-华安/concurrent1/src/main/java/com/luban/demo9/Demo.java" timestamp="1589442406756">
+        <mark key="[" line="21" column="36" />
+        <mark key="]" line="21" column="57" />
+        <mark key="." line="21" column="56" />
+        <mark key="^" line="21" column="57" />
+      </file>
       <file name="D:/Inbox/2.鲁班学院VIP高级课程（第二期）/一、并发编程专题/3-2019-07-09-synchronized和volatile关键字-华安/concurrent1/src/main/java/com/luban/demo5/Demo.java" timestamp="1589439866147">
         <mark key="[" line="23" column="11" />
         <mark key="]" line="23" column="11" />
@@ -115,40 +122,60 @@
         <mark key="]" line="13" column="11" />
         <mark key="." line="13" column="11" />
       </file>
+      <file name="D:/Inbox/2.鲁班学院VIP高级课程（第二期）/一、并发编程专题/3-2019-07-09-synchronized和volatile关键字-华安/concurrent1/src/main/java/com/luban/demo6/Demo.java" timestamp="1589440979129">
+        <mark key="[" line="6" column="30" />
+        <mark key="]" line="7" column="16" />
+        <mark key="." line="7" column="15" />
+        <mark key="^" line="7" column="16" />
+      </file>
+      <file name="D:/Inbox/2.鲁班学院VIP高级课程（第二期）/一、并发编程专题/3-2019-07-09-synchronized和volatile关键字-华安/concurrent1/src/main/java/com/luban/demo8/Demo.java" timestamp="1589441937051">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1589442910998">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps />
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICAvL1RocmVhZC5zbGVlcCg1MDAwKTsKICAgICAgICB9IGNhdGNoIChJbnRlcnJ1cHRlZEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc291dCAK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>/*synchronized*/</text>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc291dCAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IGkgPSA1LzA7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20ubHViYW4uZGVtbzE7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sdWJhbi5kZW1vNC5EZW1vOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAoCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInRlc3QyIHN0YXJ0Li4uLi4uLiIpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICAvL1RocmVhZC5zbGVlcCg1MDAwKTsKICAgICAgICB9IGNhdGNoIChJbnRlcnJ1cHRlZEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgCg==</text>
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">cGFja2FnZSBjb20ubHViYW4uZGVtbzE7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>/*synchronized*/</text>
+        <text />
       </register>
     </registers>
   </component>
