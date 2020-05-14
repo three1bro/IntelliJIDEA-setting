@@ -126,7 +126,7 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="D:/MyDocs/JavaProjects/JourneyOfLeetcode/src/hottopic100/SumOfTwoNumbers.java" timestamp="1589455572713">
+      <file name="D:/MyDocs/JavaProjects/JourneyOfLeetcode/src/hottopic100/SumOfTwoNumbers.java" timestamp="1589455984481">
         <mark key="[" line="40" column="80" />
         <mark key="]" line="40" column="83" />
         <mark key="." line="40" column="82" />
@@ -160,6 +160,12 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="D:/MyDocs/JavaProjects/JourneyOfLeetcode/src/hottopic100/AddTwoNumbers.java" timestamp="1589458386208">
+        <mark key="[" line="62" column="58" />
+        <mark key="]" line="37" column="43" />
+        <mark key="^" line="37" column="43" />
+        <mark key="." line="37" column="42" />
+      </file>
       <file name="/fragment.java" timestamp="1589442910998">
         <mark key="[" line="0" column="0" />
       </file>
@@ -168,44 +174,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>sotn.twoSum()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAobDEgIT0gbnVsbCkgewogICAgICAgICAgICBjdXIubmV4dCA9IG5ldyBMaXN0Tm9kZShsMS52YWwgKyBjYXJyeSk7CiAgICAgICAgfQogICAgICAgIGlmIChsMiAhPSBudWxsKSB7CiAgICAgICAgICAgIGN1ci5uZXh0ID0gbmV3IExpc3ROb2RlKGwyLnZhbCArIGNhcnJ5KTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>sotn.twoSum()</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJ0aHJlYWQyIHN0YXJ0Li4uLiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocy5jaGFyQXQoMCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAobDEgIT0gbnVsbCkgewogICAgICAgICAgICBjdXIubmV4dCA9IG5ldyBMaXN0Tm9kZShsMS52YWwgKyBjYXJyeSk7CiAgICAgICAgfQogICAgICAgIGlmIChsMiAhPSBudWxsKSB7CiAgICAgICAgICAgIGN1ci5uZXh0ID0gbmV3IExpc3ROb2RlKGwyLnZhbCArIGNhcnJ5KTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRbXSByZXN1bHQgPSBuZXcgaW50WzJdOwo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludE5vZGUoZ2V0Tm9kZSgiMTIzIikpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+        <text encoding="base64">ICAgICAgICBnZXROb2RlKCIxMjMiKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBnZXROb2RlKCIxMjMiKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzaW5nbGVOdW1iZXIoKQo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFdTRExPdXRwdXQK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBBcnJheXMuc3RyZWFtKG51bXMpLmZvckVhY2goKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaGVhZC5uZXh0Cg==</text>
       </register>
     </registers>
   </component>
