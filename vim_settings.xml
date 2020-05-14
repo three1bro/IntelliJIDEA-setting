@@ -92,6 +92,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1589459121027">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/Inbox/2.鲁班学院VIP高级课程（第二期）/一、并发编程专题/3-2019-07-09-synchronized和volatile关键字-华安/concurrent1/src/main/java/com/luban/demo4/Demo.java" timestamp="1589439692408">
         <mark key="[" line="19" column="44" />
         <mark key="]" line="19" column="44" />
@@ -125,6 +128,11 @@
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
+      </file>
+      <file name="D:/MyDocs/JavaProjects/JourneyOfLeetcode/.gitignore" timestamp="1589459005002">
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="0" />
+        <mark key="." line="99" column="0" />
       </file>
       <file name="D:/MyDocs/JavaProjects/JourneyOfLeetcode/src/hottopic100/SumOfTwoNumbers.java" timestamp="1589455984481">
         <mark key="[" line="40" column="80" />
@@ -160,7 +168,7 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="D:/MyDocs/JavaProjects/JourneyOfLeetcode/src/hottopic100/AddTwoNumbers.java" timestamp="1589458386208">
+      <file name="D:/MyDocs/JavaProjects/JourneyOfLeetcode/src/hottopic100/AddTwoNumbers.java" timestamp="1589458578380">
         <mark key="[" line="62" column="58" />
         <mark key="]" line="37" column="43" />
         <mark key="^" line="37" column="43" />
