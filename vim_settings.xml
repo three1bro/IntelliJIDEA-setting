@@ -92,8 +92,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1589459121027">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1589546593954">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="D:/Inbox/2.鲁班学院VIP高级课程（第二期）/一、并发编程专题/3-2019-07-09-synchronized和volatile关键字-华安/concurrent1/src/main/java/com/luban/demo4/Demo.java" timestamp="1589439692408">
         <mark key="[" line="19" column="44" />
@@ -130,11 +132,11 @@
         <mark key="." line="7" column="15" />
         <mark key="^" line="7" column="16" />
       </file>
-      <file name="D:/MyDocs/JavaProjects/JourneyOfLeetcode/src/hottopic100/ValidParenthesis.java" timestamp="1589546302469">
+      <file name="D:/MyDocs/JavaProjects/JourneyOfLeetcode/src/hottopic100/ValidParenthesis.java" timestamp="1589546549565">
         <mark key="[" line="23" column="40" />
-        <mark key="]" line="23" column="40" />
+        <mark key="]" line="23" column="41" />
         <mark key="." line="23" column="40" />
-        <mark key="^" line="10" column="26" />
+        <mark key="^" line="23" column="41" />
       </file>
       <file name="D:/Inbox/2.鲁班学院VIP高级课程（第二期）/一、并发编程专题/3-2019-07-09-synchronized和volatile关键字-华安/concurrent1/src/main/java/com/luban/demo13/Container3.java" timestamp="1589445360945">
         <mark key="[" line="34" column="0" />
@@ -151,6 +153,12 @@
         <mark key="]" line="40" column="83" />
         <mark key="." line="40" column="82" />
         <mark key="^" line="40" column="83" />
+      </file>
+      <file name="D:/MyDocs/JavaProjects/JourneyOfLeetcode/src/hottopic100/MinimumStack.java" timestamp="1589547654703">
+        <mark key="[" line="45" column="19" />
+        <mark key="]" line="45" column="20" />
+        <mark key="." line="45" column="19" />
+        <mark key="^" line="45" column="20" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" timestamp="1589453664116">
         <mark key="[" line="14" column="11" />
@@ -195,43 +203,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>3</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>3</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoIigiLmVxdWFscyhwb3ApICYmICIpIi5lcXVhbHMoYykpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBtYWluKCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdGFjay5wZWVrKCkgPT0gcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgINf31d+jump5ZAogICAgwbS906O6aHR0cHM6Ly9sZWV0Y29kZS1jbi5jb20vcHJvYmxlbXMvdmFsaWQtcGFyZW50aGVzZXMvc29sdXRpb24vdmFsaWQtcGFyZW50aGVzZXMtZnUtemh1LXpoYW4tZmEtYnktamluNDA3ODkxMDgwLwogICAgwLTUtKO6waa/26OoTGVldENvZGWjqQogICAg1vjX98iouenX99Xfy/nT0KGjyczStdeq1NjH68Gqz7XX99Xfu/G1w8rayKijrLfHyczStdeq1NjH69eiw/ez9rSmoaM=</text>
+        <text encoding="base64">ICAgICAgICBzdGFjay5wb3AoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBpc1Njb3JlKENoYXJhY3RlciBwb3AsIGNoYXIgYykgewogICAgICAgIGlmICgiKCIuZXF1YWxzKHBvcCkgJiYgIikiLmVxdWFscyhjKSkgcmV0dXJuIHRydWU7CiAgICAgICAgaWYgKCJ7Ii5lcXVhbHMocG9wKSAmJiAifSIuZXF1YWxzKGMpKSByZXR1cm4gdHJ1ZTsKICAgICAgICBpZiAoIlsiLmVxdWFscyhwb3ApICYmICJdIi5lcXVhbHMoYykpIHJldHVybiB0cnVlOwogICAgICAgIHJldHVybiBmYWxzZTsKICAgIH0=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICDX99Xfo7pqeWQKICAgIMG0vdOjumh0dHBzOi8vbGVldGNvZGUtY24uY29tL3Byb2JsZW1zL3ZhbGlkLXBhcmVudGhlc2VzL3NvbHV0aW9uL3ZhbGlkLXBhcmVudGhlc2VzLWZ1LXpodS16aGFuLWZhLWJ5LWppbjQwNzg5MTA4MC8KICAgIMC01LSjusGmv9ujqExlZXRDb2Rlo6kKICAgINb41/fIqLnp1/fV38v509Cho8nM0rXXqtTYx+vBqs+11/fV37vxtcPK2sioo6y3x8nM0rXXqtTYx+vXosP3s/a0pqGj</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzd2l0Y2ggKHBvcCkgewogICAgICAgICAgICBjYXNlICIoIi5jaGFyQXQoMCk6CiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAoKENoYXJhY3RlcikgIigiKTs6Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBpc1Njb3JlKENoYXJhY3RlciBwb3AsIGNoYXIgYykgewogICAgICAgIAo=</text>
+        <text encoding="base64">CjEzNgkg1ruz9s/W0ru0zrXEyv3X1iAgCTcxNQk2OC4zJQm88rWlCQoxCSDBvcr91q66zSAgCTM2ODIJNDguNCUJvPK1pQkKMgkgwb3K/c/gvNMgCgkyMjc2CTM3LjQlCdbQtcg=</text>
       </register>
     </registers>
   </component>
