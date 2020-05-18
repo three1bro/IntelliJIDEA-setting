@@ -120,11 +120,10 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="D:/MyDocs/JavaProjects/luban/src/main/java/concurent/JOL.java" timestamp="1589788808683">
-        <mark key="[" line="11" column="34" />
-        <mark key="]" line="11" column="55" />
-        <mark key="." line="11" column="54" />
-        <mark key="^" line="11" column="55" />
+      <file name="D:/MyDocs/JavaProjects/luban/src/main/java/concurent/JOL.java" timestamp="1589792207072">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="D:/MyDocs/JavaProjects/JourneyOfLeetcode/src/hottopic100/TheLongestSubstringWithoutRepeatedCharacters.java" timestamp="1589544805158">
         <mark key="[" line="53" column="57" />
@@ -198,14 +197,13 @@
       <file name="/fragment.java" timestamp="1589788396649">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/lang/Object.java" timestamp="1589786102190" />
     </filemarks>
     <jumps />
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdXBlCg==</text>
+        <text encoding="base64">ICAgICAgICB7e3t7e3t7e319fX19fX19Cg==</text>
       </register>
       <register name="-" type="4">
         <text>r.run();</text>
@@ -214,34 +212,34 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oQ2xhc3NMYXlvdXQucGFyc2VJbnN0YW5jZShiKS50b1ByaW50YWJsZSgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdXBlCg==</text>
+        <text encoding="base64">ICAgICAgICB7e3t7e3t7e319fX19fX19Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHB1YmxpYyB2b2lkIHJ1bigpIHsKICAgICAgICAgICAgICAgICAgICBzdXBlCg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oQ2xhc3NMYXlvdXQucGFyc2VJbnN0YW5jZShiKS50b1ByaW50YWJsZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdXBlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEIgYiA9IG5ldyBCKCk7CiAgICAKICAgIExvbmcgc3RhcnQgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHB1YmxpYyB2b2lkIHJ1bigpIHsKICAgICAgICAgICAgICAgICAgICBzdXBlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZvcmkK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oQ2xhc3NMYXlvdXQucGFyc2VJbnN0YW5jZShiKS50b1ByaW50YWJsZSgpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzb3V0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5vcGVuamRrLmpvbC52bS5WTTsK</text>
+        <text encoding="base64">ICAgIEIgYiA9IG5ldyBCKCk7CiAgICAKICAgIExvbmcgc3RhcnQgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzeW5jaHJvbml6ZWQgKCkK</text>
+        <text encoding="base64">ICAgIGZvcmkK</text>
       </register>
     </registers>
   </component>
