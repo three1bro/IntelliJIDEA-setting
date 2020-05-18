@@ -115,6 +115,17 @@
         <mark key="." line="37" column="67" />
         <mark key="^" line="37" column="68" />
       </file>
+      <file name="D:/MyDocs/JavaProjects/luban/pom.xml" timestamp="1589783676326">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="D:/MyDocs/JavaProjects/luban/src/main/java/concurent/JOL.java" timestamp="1589784002321">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="22" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="11" column="71" />
+      </file>
       <file name="D:/Inbox/2.鲁班学院VIP高级课程（第二期）/一、并发编程专题/3-2019-07-09-synchronized和volatile关键字-华安/concurrent1/src/main/java/com/luban/demo5/Demo.java" timestamp="1589439866147">
         <mark key="[" line="23" column="11" />
         <mark key="]" line="23" column="11" />
@@ -178,11 +189,6 @@
         <mark key="." line="21" column="56" />
         <mark key="^" line="21" column="57" />
       </file>
-      <file name="D:/Inbox/2.鲁班学院VIP高级课程（第二期）/一、并发编程专题/3-2019-07-09-synchronized和volatile关键字-华安/concurrent1/src/main/java/com/luban/demo3/Demo1.java" timestamp="1589439451953">
-        <mark key="[" line="13" column="11" />
-        <mark key="]" line="13" column="11" />
-        <mark key="." line="13" column="11" />
-      </file>
       <file name="D:/Inbox/2.鲁班学院VIP高级课程（第二期）/一、并发编程专题/3-2019-07-09-synchronized和volatile关键字-华安/concurrent1/src/main/java/com/luban/demo8/Demo.java" timestamp="1589441937051">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -202,8 +208,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>3</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEEgYSA9IG5ldyBBKCk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>3</text>
@@ -212,34 +218,34 @@
         <text encoding="base64">ICAgICAgICBpZiAoIigiLmVxdWFscyhwb3ApICYmICIpIi5lcXVhbHMoYykpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtYWluKCk7Cg==</text>
+        <text encoding="base64">ICAgIEEgYSA9IG5ldyBBKCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFjay5wZWVrKCkgPT0gcwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zdW4ueG1sLmludGVybmFsLndzLmFwaS5tb2RlbC53c2RsLldTRExPdXRwdXQ7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFjay5wb3AoKTsK</text>
+        <text encoding="base64">ICAgIFdTRExPdXRwdXQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLm9wZW5qZGsuam9sPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5qb2ypXGNvcmU8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjAuOTwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICAgIDxncm91cElkPm9yZy5vcGVuamRrLmpvbDwvZ3JvdXBJZD4KICAgICAgICA8YXJ0aWZhY3RJZD5qb2ypXGNvcmU8L2FydGlmYWN0SWQ+CiAgICAgICAgPHZlcnNpb24+MC45PC92ZXJzaW9uPgogICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgCg==</text>
+        <text encoding="base64">ICAgIDIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CjEzNgkg1ruz9s/W0ru0zrXEyv3X1iAgCTcxNQk2OC4zJQm88rWlCQoxCSDBvcr91q66zSAgCTM2ODIJNDguNCUJvPK1pQkKMgkgwb3K/c/gvNMgCgkyMjc2CTM3LjQlCdbQtcg=</text>
+        <text encoding="base64">ICAgIMrXz8jM7bzTSk9MtcTSwMC1Cg==</text>
       </register>
     </registers>
   </component>
