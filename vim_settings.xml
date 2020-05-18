@@ -92,8 +92,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1589546593954">
-        <mark key="[" line="1" column="0" />
+      <file name="/Dummy.txt" timestamp="1589547836053">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
@@ -154,11 +154,11 @@
         <mark key="." line="40" column="82" />
         <mark key="^" line="40" column="83" />
       </file>
-      <file name="D:/MyDocs/JavaProjects/JourneyOfLeetcode/src/hottopic100/MinimumStack.java" timestamp="1589547654703">
-        <mark key="[" line="45" column="19" />
-        <mark key="]" line="45" column="20" />
-        <mark key="." line="45" column="19" />
-        <mark key="^" line="45" column="20" />
+      <file name="D:/MyDocs/JavaProjects/JourneyOfLeetcode/src/hottopic100/MinimumStack.java" timestamp="1589547740969">
+        <mark key="[" line="20" column="21" />
+        <mark key="]" line="20" column="22" />
+        <mark key="." line="20" column="21" />
+        <mark key="^" line="20" column="22" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" timestamp="1589453664116">
         <mark key="[" line="14" column="11" />
