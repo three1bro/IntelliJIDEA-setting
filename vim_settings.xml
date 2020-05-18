@@ -97,12 +97,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="D:/Inbox/2.鲁班学院VIP高级课程（第二期）/一、并发编程专题/3-2019-07-09-synchronized和volatile关键字-华安/concurrent1/src/main/java/com/luban/demo4/Demo.java" timestamp="1589439692408">
-        <mark key="[" line="19" column="44" />
-        <mark key="]" line="19" column="44" />
-        <mark key="." line="19" column="44" />
-        <mark key="^" line="18" column="41" />
-      </file>
       <file name="D:/Inbox/2.鲁班学院VIP高级课程（第二期）/一、并发编程专题/3-2019-07-09-synchronized和volatile关键字-华安/concurrent1/src/main/java/com/luban/demo13/Container1.java" timestamp="1589444834533">
         <mark key="[" line="15" column="4" />
         <mark key="]" line="15" column="13" />
@@ -120,11 +114,11 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="D:/MyDocs/JavaProjects/luban/src/main/java/concurent/JOL.java" timestamp="1589785931983">
-        <mark key="[" line="17" column="23" />
-        <mark key="]" line="18" column="8" />
-        <mark key="^" line="18" column="8" />
-        <mark key="." line="18" column="7" />
+      <file name="D:/MyDocs/JavaProjects/luban/src/main/java/concurent/JOL.java" timestamp="1589786920985">
+        <mark key="[" line="23" column="29" />
+        <mark key="]" line="23" column="28" />
+        <mark key="^" line="23" column="28" />
+        <mark key="." line="23" column="27" />
       </file>
       <file name="D:/Inbox/2.鲁班学院VIP高级课程（第二期）/一、并发编程专题/3-2019-07-09-synchronized和volatile关键字-华安/concurrent1/src/main/java/com/luban/demo5/Demo.java" timestamp="1589439866147">
         <mark key="[" line="23" column="11" />
@@ -203,16 +197,17 @@
       <file name="/fragment.java" timestamp="1589545663728">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/lang/Object.java" timestamp="1589786102190" />
     </filemarks>
     <jumps />
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>has</text>
       </register>
       <register name="-" type="4">
-        <text>VM.current().details()</text>
+        <text>has</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGJvb2xlYW4gZmxhZyA9IGZhbHNlOwo=</text>
